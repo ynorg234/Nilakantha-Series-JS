@@ -1,5 +1,6 @@
 // Huge credits to BrolanJ for original code
 // Get code here: https://github.com/BrolanJ/Bailey-Borwein-Plouffe/blob/master/BBP%20Formula.py
+// this code is broken pls fix
 function Decimal(num) {return parseFloat(num);}
 function pi(iterations) {
 var pi = 0;
