@@ -1,6 +1,6 @@
 // Huge credits to BrolanJ for og code
 // Get code here: https://github.com/BrolanJ/Bailey-Borwein-Plouffe/blob/master/BBP%20Formula.py
-// fixed after inspecting code more
+// works, but not accurate
 function Decimal(num) {return parseFloat(num);}
 function sum(arr) {
   return arr.reduce(function(a, b) {return a+b;}, 0) // https://stackoverflow.com/questions/38203897/sum-function-in-javascript
